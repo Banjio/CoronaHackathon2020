@@ -1,0 +1,8 @@
+# Python .venv
+*.venv
+
+# Visual Studio Code
+*.vscode
+
+# Vim
+*.vim
