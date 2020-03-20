@@ -6,6 +6,10 @@
 Welcome to HackingCorona's documentation!
 =========================================
 
+Website of the actual hackathon: WirvsVirus_
+
+.. _WirvsVirus: https://www.bundesregierung.de/breg-de/themen/coronavirus/wir-vs-virus-1731968 
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
